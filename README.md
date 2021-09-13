@@ -22,3 +22,7 @@
 食材金額👉/ia
 雜項金額👉/oa
 總金額👉/ta
+
+## 未來可能新增  
+- 自訂Sheets website,table
+- 更多功能
